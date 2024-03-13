@@ -75,8 +75,14 @@ class AddressBook(UserDict):
         pass
 
 
-    def change_record_birthday(self, name:str, new_birthday) -> None:
+    def change_record_birthday(self, name:str, new_birthday:str) -> None:
         pass
+
+
+    def show_record_birthdays(self, days: int) -> list: #list of dictionaries(to_dict)
+        pass
+
+
 
 
 
