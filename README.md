@@ -1,12 +1,12 @@
 # Cli Bot assistance for managing contacts and notes
 
-##Description
+## Description
 
 Our **Assistant Bot** is a user-friendly console bot that you can use to conveniently **manage your contacts** by adding their name, phone, address, email, and birthday. All the data can be modified or deleted at any time. The bot will help you to **remember the birthdays** of your loved ones, colleagues, and acquaintances and even prepare for these dates in advance: simply enter the number of days, and the bot will show you all the birthdays during the period you entered (starting from now). You can also **save your notes** in the bot and find them by title, content, or tag.
 
-##Commands
+## Commands
 
-Let's look at the main functionality of our bot:
+**Let's look at the main functionality of our bot:**
 
 **Contact** - you can add or delete a contact, and you will also be able to see a list of all the contacts in your address book. What is more, a contact with all info can be found by phone, email, address, or birthday.
 
